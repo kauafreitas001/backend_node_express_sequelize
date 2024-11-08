@@ -53,18 +53,18 @@ A API foi construída utilizando **Node.js**, com **Express** como framework e *
 ## Endpoints da API
 
 ### Usuários
-- **GET** `/users` - Obter todos os usuários.
-- **GET** `/users/:id` - Obter um usuário específico por ID.
-- **POST** `/users` - Criar um novo usuário.
-- **PUT** `/users/:id` - Atualizar um usuário por ID.
-- **DELETE** `/users/:id` - Excluir um usuário por ID.
+- **GET** `/usuarios` - Obter todos os usuários.
+- **GET** `/usuarios/:id` - Obter um usuário específico por ID.
+- **POST** `/usuarios` - Criar um novo usuário.
+- **PUT** `/usuarios/:id` - Atualizar um usuário por ID.
+- **DELETE** `/usuarios/:id` - Excluir um usuário por ID.
 
 ### Empresas
-- **GET** `/companies` - Obter todas as empresas.
-- **GET** `/companies/:id` - Obter uma empresa específica por ID.
-- **POST** `/companies` - Criar uma nova empresa.
-- **PUT** `/companies/:id` - Atualizar uma empresa por ID.
-- **DELETE** `/companies/:id` - Excluir uma empresa por ID.
+- **GET** `/empresas` - Obter todas as empresas.
+- **GET** `/empresas/:id` - Obter uma empresa específica por ID.
+- **POST** `/empresas` - Criar uma nova empresa.
+- **PUT** `/empresas/:id` - Atualizar uma empresa por ID.
+- **DELETE** `/empresas/:id` - Excluir uma empresa por ID.
 
 ## Exemplos de Uso
 ### Criar um Novo Usuário
