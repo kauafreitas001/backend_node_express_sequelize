@@ -1,4 +1,4 @@
-# Back-end com express - API
+# Back-end com express e sequelize - API
 
 ## Descrição
 Este projeto foi desenvolvido como um portfólio para demonstrar conhecimentos básicos em construção de APIs utilizando Node.js, Express e MySQL. O projeto realiza operações básicas de CRUD para manipular as tabelas de usuários e empresas, permitindo criação, leitura, atualização e exclusão de registros.
